@@ -1,0 +1,5 @@
+#CUSTOMER RELATION APPLICATION
+<br>
+```USAGE FOR SHOP AUTHORISED PERSON IN FIRST SEGMENT```<br>
+```USAGE FOR CUSTOMERS IN SECOND SEGMENT OF PROGRAM```
+![](![Screenshot (8)](https://user-images.githubusercontent.com/69100087/163196968-0ada11f3-8dc8-4d2a-8c14-e600a0b6e5bf.png)  "Title")
